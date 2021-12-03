@@ -44,12 +44,13 @@
 
 <hr/>
 
+📮 **Contato**:
+
+### ✉️ alvarogfn@protonmail.com
+
+<br>
+
  📱**Social**:
 
 [![](https://img.shields.io/badge/Kasoke-396DC0?&logo=linkedin&logoColor=FFFFFF)](https://www.linkedin.com/in/kasoke/) [![](https://img.shields.io/badge/Kasokinho-396DC0?&logo=twitter&logoColor=FFFFFF)](https://twitter.com/Kasokinho)
 
-<br>
-
-📮 **Contato**:
-
-### ✉️ alvarogfn@protonmail.com
