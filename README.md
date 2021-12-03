@@ -44,8 +44,12 @@
 
 <hr/>
 
-📞 **Contato**:
+ 📱**Social**:
 
 [![](https://img.shields.io/badge/Kasoke-396DC0?&logo=linkedin&logoColor=FFFFFF)](https://www.linkedin.com/in/kasoke/) [![](https://img.shields.io/badge/Kasokinho-396DC0?&logo=twitter&logoColor=FFFFFF)](https://twitter.com/Kasokinho)
 
-<p align="center">Me mande um Email :D<br><strong>alvarogfn@protonmail.com</strong></p>
+<br>
+
+📮 **Contato**:
+
+### ✉️ alvarogfn@protonmail.com
