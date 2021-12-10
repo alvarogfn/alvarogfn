@@ -2,10 +2,6 @@
 
 **⭐ Em destaque:**
 
-<a href="https://github.com/alvarogfn/cronometer/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alvarogfn&repo=cronometer&theme=dark" />
-</a>
-&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/alvarogfn/KasokeBot">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alvarogfn&repo=kasokebot&theme=dark" />
 </a>
