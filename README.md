@@ -2,6 +2,10 @@
 
 **⭐ Em destaque:**
 
+<a href="https://github.com/alvarogfn/portfolio">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alvarogfn&repo=portfolio&theme=dark" />
+</a>
+&nbsp; &nbsp;
 <a href="https://github.com/alvarogfn/KasokeBot">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alvarogfn&repo=kasokebot&theme=dark" />
 </a>
