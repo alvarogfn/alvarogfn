@@ -9,7 +9,9 @@
 <a href="https://github.com/alvarogfn/KasokeBot">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alvarogfn&repo=kasokebot&theme=dark" />
 </a>
+
 &nbsp; &nbsp;
+
 <a href="https://github.com/alvarogfn/discord-webhook-twitter-tracker">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alvarogfn&repo=discord-webhook-twitter-tracker&theme=dark" />
 </a>
