@@ -9,7 +9,7 @@
 
 ### *About me... 📝*
 
-I am a junior front-end developer studying **Vue**, **Angular** and **React** technologies for web application development, but also learning mobile technologies like **Flutter** and **React Native** for hybrid development
+I am a junior front-end developer studying **Vue**, **Angular** and **React** technologies for web application development, but also learning mobile technologies like **Flutter** and **React Native** for hybrid development.
 
 **💻 Skills:**  
 
