@@ -9,7 +9,7 @@
 
 ### *About me... 📝*
 
-I am a junior front-end developer studying **Vue**, **Angular** and **React** technologies for web application development, but also learning mobile technologies like **Flutter** and **React Native** for hybrid development.
+Hi, I'm Álvaro, a Front-End developer. I have experience in several technologies, including React.js, Vue.js, Node.js, CSS, and I'm always eager to learn more. I'm a big fan of open source and willing to learn and contribute in any way I can. Although I'm a beginner in the open-source world, I believe it's the perfect way to collaborate with other developers and build amazing things together. Let's build awesome stuff!
 
 **💻 Skills:**  
 
