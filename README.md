@@ -34,5 +34,4 @@ Hi, I'm Álvaro, a Front-End developer. I have experience in several technologie
 
  📱**Networking**:
 
-[![](https://img.shields.io/badge/Kasoke-396DC0?&logo=linkedin&logoColor=FFFFFF)](https://www.linkedin.com/in/kasoke/) [![](https://img.shields.io/badge/Kasokinho-396DC0?&logo=twitter&logoColor=FFFFFF)](https://twitter.com/Kasokinho)
-
+[![](https://img.shields.io/badge/Kasoke-396DC0?&logo=linkedin&logoColor=FFFFFF)](https://www.linkedin.com/in/alvarogfn/)
