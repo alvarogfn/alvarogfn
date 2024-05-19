@@ -3,8 +3,8 @@
 
 **⭐ Em destaque:**
 
-<a href="https://github.com/alvarogfn/netflix-clone">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alvarogfn&repo=netflix-clone&theme=dark" />
+<a href="https://github.com/alvarogfn/tamagui-design-system-vite-example">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alvarogfn&repo=tamagui-design-system-vite-example&theme=dark" />
 </a>
 
 ### *About me... 📝*
