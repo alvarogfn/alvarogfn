@@ -28,7 +28,7 @@ Hi, I'm Álvaro, a Front-End developer. I have experience in several technologie
 
 📮 **Contact**:
 
-### ✉️ alvarogfn@protonmail.com
+### ✉️ [alvaro-contato@outlook.com](mailto:alvaro-contato@outlook.com)
 
 <br>
 
