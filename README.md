@@ -55,7 +55,7 @@ I build responsive, accessible, and semantic web applications. I work mainly wit
 
 - **[styled-bettertools](https://github.com/alvarogfn/styled-bettertools)** — TypeScript interpolation utilities for styled-components, Emotion, and other CSS-in-JS libraries.
 - **[Dados Abertos de Feira](https://github.com/DadosAbertosDeFeira)** — An open-data initiative for public datasets and civic transparency.
-- **[Cronometrando](https://github.com/alvarogfn/cronometrando)** — A stopwatch for practicing speech cadence and timing technical interview answers.
+- **[Cronometrando](https://github.com/alvarogfn/cronometrando)** — A stopwatch to help manage time during entrance exams and tests.
 - **VenoCurrent** — Browser-based eye-tracking and computer-vision experiments with TensorFlow.js. [More on my portfolio](https://alvarogfn.site/#projects).
 
 ## Recent writing
