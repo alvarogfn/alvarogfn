@@ -1,37 +1,54 @@
+# Alvaro Neto
 
-# Hi. Welcome to my github!!! 
+**Systems Analyst & Frontend Engineer · Brazil / Remote**
 
-**⭐ Em destaque:**
+I build responsive, accessible, and semantic web applications. I work mainly with JavaScript, TypeScript, and Node.js, using frameworks such as React, Next.js, Remix, Vue, and Angular. I also have experience with Express, NestJS, CI/CD, and test-driven development. I believe code isn't complete without tests, while staying pragmatic and focused on delivery.
 
-<a href="https://github.com/alvarogfn/tamagui-design-system-vite-example">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alvarogfn&repo=tamagui-design-system-vite-example&theme=dark" />
+[Portfolio](https://alvarogfn.site) · [Posts & notes](https://alvarogfn.site/posts/) · [LinkedIn](https://www.linkedin.com/in/alvarogfn/)
+
+## Selected projects
+
+- **[styled-bettertools](https://github.com/alvarogfn/styled-bettertools)** — TypeScript interpolation utilities for styled-components, Emotion, and other CSS-in-JS libraries.
+- **[Dados Abertos de Feira](https://github.com/DadosAbertosDeFeira)** — An open-data initiative for public datasets and civic transparency.
+- **[Cronometrando](https://github.com/alvarogfn/cronometrando)** — A stopwatch for practicing speech cadence and timing technical interview answers.
+- **VenoCurrent** — Browser-based eye-tracking and computer-vision experiments with TensorFlow.js. [More on my portfolio](https://alvarogfn.site/#projects).
+
+## Recent writing
+
+- [Introdução às operações com Números Fuzzy](https://alvarogfn.site/posts/introducao-operacoes-numeros-fuzzy) · 2026
+- [React Event-Driven Architecture: A Practical Pub/Sub Implementation](https://alvarogfn.site/posts/react-event-driven-architecture) · 2026
+- [O que é o Event Loop? Call Stack, Task Queue e Microtasks no JavaScript](https://alvarogfn.site/posts/event-loop-call-stack-e-queues) · 2026
+- [How to Train a Model in TensorFlow.js on Massive Datasets (Out-of-Core Learning)](https://alvarogfn.site/posts/train-model-tensorflow-massive-datasets) · 2026
+- [Creating a reusable Design System between React and React Native with Tamagui](https://alvarogfn.site/posts/reusable-design-system-react-react-native-tamagui) · 2024
+- [Criando um Design System reutilizável entre React e React Native com Tamagui](https://alvarogfn.site/posts/reusable-design-system-react-react-native-tamagui-pt) · 2024
+
+[Read all posts →](https://alvarogfn.site/posts/)
+
+## Experience
+
+- **Front-end Developer · ilegra** — Oct 2024–Jan 2025 · Next.js, React, TypeScript
+- **Outsourced Front-end Developer · nexti** — Mar 2023–Dec 2024 · React, micro-frontends, NX
+- **Front-end Intern · ilegra** — Mar 2022–Apr 2023 · JavaScript, TypeScript, Angular, React, Vue
+- **Intern · Atenas** — Sep 2021–Mar 2022
+
+## Education
+
+- **B.S. in Mathematics**, Universidade Federal de Uberlândia (UFU) — 2026–present
+- **B.S. in Information Systems**, Centro Universitário Atenas — 2020–2023
+
+## GitHub stats
+
+Cards generated with [GitHub Stats Extended](https://github.com/stats-organization/github-stats-extended):
+
+<a href="https://github.com/stats-organization/github-stats-extended">
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=alvarogfn&show_icons=true&theme=dark&hide=contribs" alt="Alvaro's GitHub stats" />
+</a>
+<a href="https://github.com/stats-organization/github-stats-extended">
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=alvarogfn&layout=compact&theme=dark" alt="Most used programming languages" />
 </a>
 
-### *About me... 📝*
+## Contact
 
-Hi, I'm Álvaro, a Front-End developer. I have experience in several technologies, including React.js, Vue.js, Node.js, CSS, and I'm always eager to learn more. I'm a big fan of open source and willing to learn and contribute in any way I can. Although I'm a beginner in the open-source world, I believe it's the perfect way to collaborate with other developers and build amazing things together. Let's build awesome stuff!
-
-**💻 Skills:**  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvarogfn&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
- 
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)   ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
-
-**🔧 Tools:**
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alvarogfn&show_icons=true&theme=dark&hide=contribs)
-
-![](https://img.shields.io/badge/Visual%20Studio%20Code-000000?&logo=visualstudiocode&logoColor=396DC0) ![](https://img.shields.io/badge/Figma-000000?&logo=figma&logoColor=FFFFFF) ![](https://img.shields.io/badge/Trello-000000?&logo=trello&logoColor=396DC0) ![](https://img.shields.io/badge/Microsoft%20Teams-000000?&logo=microsoftteams&logoColor=396DC0) ![](https://img.shields.io/badge/GitHub-000000?&logo=github&logoColor=FFFFFF) ![](https://img.shields.io/badge/Windows-000000?&logo=windows&logoColor=FFFFFF) 
-
-<hr/>
-
-📮 **Contact**:
-
-### ✉️ [alvaro-contato@outlook.com](mailto:alvaro-contato@outlook.com)
-
-<br>
-
- 📱**Networking**:
-
-[![](https://img.shields.io/badge/Kasoke-396DC0?&logo=linkedin&logoColor=FFFFFF)](https://www.linkedin.com/in/alvarogfn/)
+- [Email](mailto:alvaro-contato@outlook.com)
+- [LinkedIn](https://www.linkedin.com/in/alvarogfn/)
+- [GitHub](https://github.com/alvarogfn)
